@@ -38,7 +38,7 @@ Here, you can find a brief description of each project or assignment included in
 Instructions on how to install and run the projects on your local machine.
 
 ```bash
-git clone https://github.com/yourusername/machine-learning-projects.git
+git clone https://github.com/Dhruv-cs50/machine-learning-projects.git
 cd machine-learning-projects
 pip install -r requirements.txt
 ```
@@ -67,7 +67,7 @@ Specify the license under which your projects are released, typically:
 ```text
 MIT License
 
-Copyright (c) 2023 Your Name
+Copyright (c) 2023 Dhruv Punit Shah
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -81,8 +81,6 @@ furnished to do so, subject to the following conditions:
 
 Your Name - dhruvshah844@gmail.com
 
-Project Link: [((https://github.com/Dhruv-cs50/Machine-Learning-Projects-/tree/main))
+Project Link: [(https://github.com/Dhruv-cs50/Machine-Learning-Projects-/tree/main)]
 
 ---
-
-This template should give you a good starting point for your README. You can add more details specific to each project or include additional sections as needed, such as 'Acknowledgments', 'Project Status', or 'Screenshots'.
