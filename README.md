@@ -14,7 +14,7 @@ Here, you can find a brief description of each project or assignment included in
 - **Project 1: Linear Regression Model**
   - Description: Implementation of a linear regression model to predict housing prices based on a dataset of housing features.
   - Technologies: Python, NumPy, Pandas, Matplotlib
-  - [Link to Project](#)
+  - [(https://github.com/Dhruv-cs50/Machine-Learning-Projects-/blob/main/Linear%20Regression%20Assignment.ipynb)](#)
 
 - **Project 2: K-NN**
   - Description: Development of a logistic regression classifier to identify handwritten digits from the MNIST dataset.
