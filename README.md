@@ -81,7 +81,7 @@ furnished to do so, subject to the following conditions:
 
 Your Name - dhruvshah844@gmail.com
 
-Project Link: [[https://github.com/yourusername/machine-learning-projects](https://github.com/yourusername/machine-learning-projects](https://github.com/Dhruv-cs50/Machine-Learning-Projects-/tree/main))
+Project Link: [((https://github.com/Dhruv-cs50/Machine-Learning-Projects-/tree/main))
 
 ---
 
