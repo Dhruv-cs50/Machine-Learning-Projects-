@@ -19,7 +19,7 @@ Here, you can find a brief description of each project or assignment included in
 - **Project 2: K-NN**
   - Description: Development of a logistic regression classifier to identify handwritten digits from the MNIST dataset.
   - Technologies: Python, scikit-learn
-  - [Link to Project](#)
+  - [https://github.com/Dhruv-cs50/Machine-Learning-Projects-/blob/main/Dhruv_CS171_HW_KNN.ipynb](#)
 
 ### Other Machine Learning Projects
 
